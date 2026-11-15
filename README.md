@@ -5,6 +5,7 @@
     width="100%"
   />
 </p>
+
 # 👋 Hi, I'm Anjaneyulu!
 
 ### Data & AI Engineer | Generative AI | Agentic AI | Azure | Databricks
