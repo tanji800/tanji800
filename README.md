@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="./assets/github-banner.png"
-    width="100%"
+    src="https://raw.githubusercontent.com/tanji800/tanji800/main/assets/github-banner.png"
     alt="Anjaneyulu - Data and AI Engineer"
+    width="100%"
   />
 </p>
 # 👋 Hi, I'm Anjaneyulu!
